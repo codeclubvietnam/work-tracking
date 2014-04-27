@@ -9,6 +9,6 @@ To create a new issue:
 
    ![Issues](img/issues.png)
 
-2. Press the **New Issue** button
+2. Press the [**New Issue**](https://github.com/CodeClubHanoi/work-tracking/issues/new) button
 
    ![New Issue](img/new_issue.png)
