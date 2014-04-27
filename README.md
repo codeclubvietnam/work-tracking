@@ -6,7 +6,9 @@ Empty repository for tracking work. Please [watch](https://help.github.com/artic
 To create a new issue:
 
 1. Go to the Issues page
+
    ![Issues](img/issues.png)
 
 2. Press the **New Issue** button
+
    ![New Issue](img/new_issue.png)
